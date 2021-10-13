@@ -1,0 +1,6 @@
+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
+
+git remote add origin https://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@github.com/EmiMartinez88/repo.git
+
+git remote add origin https://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@github.com/EmiMartinez88/repo.git
+
